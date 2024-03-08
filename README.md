@@ -20,6 +20,8 @@
 ./CpuCoresTemperatureGraph.py
 ```
 
+![](./.github/example.png)
+
 ## Contributing
 
 Pull requests are welcome. Feel free to open an issue if you want to add other features.

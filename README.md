@@ -1,7 +1,7 @@
 ![](./.github/banner.png)
 
 <p align="center">
-  A python tool to print CPU core temperatures for each cores
+  A python tool to print CPU core temperatures for each cores.
   <br>
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/p0dalirius/CpuCoresTemperatureGraph">
   <a href="https://twitter.com/intent/follow?screen_name=podalirius_" title="Follow"><img src="https://img.shields.io/twitter/follow/podalirius_?label=Podalirius&style=social"></a>
